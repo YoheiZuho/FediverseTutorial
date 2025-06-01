@@ -2,7 +2,7 @@
 
 Fediverse(特にActivityPub)に入門するための手引き
 
-Lisence CC0
+Lisence CC0(ただし、引用部分を除く)
 
 ## Contribution Guide
 PRやIssueで気軽にケチをつけてください
@@ -12,7 +12,7 @@ PRやIssueで気軽にケチをつけてください
 ## 第1章：SNSの歴史と課題
 * 中央集権型SNSとは何か（X, Facebook, Instagramなど）
 * 広告モデル、アルゴリズム疲れ、規約変更など
-* アカウントBAN・シャドウバンなどの事例紹介
+* アカウントBAN・シャドウバンなどの事例
 
 ## 第2章：Fediverseとは？
 * フェディバースの語源と意味（Federated + Universe）
