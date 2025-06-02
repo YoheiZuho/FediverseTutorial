@@ -18,9 +18,8 @@ PRやIssueで気軽にケチをつけてください
 * フェディバースの語源と意味（Federated + Universe）
 * 中央集権と分散型の違い
 * ActivityPubというプロトコルの存在
-* Mastodonを入り口にした説明（Twitterとの比較）
 
-## 第3章：ActivityPubのしくみ（わかりやすく！）
+## 第3章：ActivityPubのしくみ
 * サーバ（インスタンス）とは何か？
 * ユーザーは「どこにアカウントを作ってもいい」仕組み
 * アカウントの識別子（@user@server）について
